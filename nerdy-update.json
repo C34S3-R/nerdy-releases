@@ -4,5 +4,5 @@
   "url": "https://github.com/C34S3-R/nerdy-releases/releases/download/v1.26/nerdy-1.26.apk",
   "sha256": "fef600fbc266e447a4315e7a663312b24bf282ef849d93b53e4da43b4d98bba4",
   "releaseNotes": "Updates now come from GitHub Releases instead of a Tailscale Funnel address, so a phone updates from any network without the home server running. Existing installs move themselves to the new source.",
-  "publishedAt": "2026-11-23T13:02:00Z"
+  "publishedAt": "2026-11-23T13:02:51Z"
 }
