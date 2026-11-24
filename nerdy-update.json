@@ -1,8 +1,8 @@
 {
-  "versionName": "1.26",
-  "versionCode": 34,
-  "url": "https://github.com/C34S3-R/nerdy-releases/releases/download/v1.26/nerdy-1.26.apk",
-  "sha256": "fef600fbc266e447a4315e7a663312b24bf282ef849d93b53e4da43b4d98bba4",
-  "releaseNotes": "Updates now come from GitHub Releases instead of a Tailscale Funnel address, so a phone updates from any network without the home server running. Existing installs move themselves to the new source.",
-  "publishedAt": "2026-11-23T13:02:51Z"
+  "versionName": "1.29",
+  "versionCode": 37,
+  "url": "https://github.com/C34S3-R/nerdy-releases/releases/download/v1.29/nerdy-1.29.apk",
+  "sha256": "5254ab0aeb3cda63988decb77fc170d2d96d640de9ed3a7f7be0b33100e90ee8",
+  "releaseNotes": "Stops the phone-wide freeze: background process sweep restricted to blocked apps, screen wake lock removed, single-flight blocking state refresh, cached schedule and permission checks.",
+  "publishedAt": "2026-11-24T17:14:10Z"
 }
