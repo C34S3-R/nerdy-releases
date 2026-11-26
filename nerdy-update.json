@@ -1,8 +1,8 @@
 {
-  "versionName": "1.30.1",
-  "versionCode": 38,
-  "url": "https://github.com/C34S3-R/nerdy-releases/releases/download/v1.30.1/nerdy-1.30.1.apk",
-  "sha256": "51a1fe7bfffa069f9cef561cd0897abf8ca64a1bdb3665e6a38aeac15c6a4721",
-  "releaseNotes": "Settings are now grouped by task. Every Android permission lives on one screen with a live on/off summary, and reminders, blocking, screen time and updates each keep their own settings together.",
-  "publishedAt": "2026-11-25T14:11:52Z"
+  "versionName": "1.30.2",
+  "versionCode": 39,
+  "url": "https://github.com/C34S3-R/nerdy-releases/releases/download/v1.30.2/nerdy-1.30.2.apk",
+  "sha256": "0a58646c5192bb4c92fd66dbc5e75c5289d5a299099fe0df6fc9900f87209319",
+  "releaseNotes": "Blocked apps stay blocked when reopened, the block screen is back, and stale sessions are retired.",
+  "publishedAt": "2026-11-26T21:33:35Z"
 }
