@@ -1,8 +1,8 @@
 {
-  "versionName": "1.30.2",
-  "versionCode": 39,
-  "url": "https://github.com/C34S3-R/nerdy-releases/releases/download/v1.30.2/nerdy-1.30.2.apk",
-  "sha256": "0a58646c5192bb4c92fd66dbc5e75c5289d5a299099fe0df6fc9900f87209319",
-  "releaseNotes": "Blocked apps stay blocked when reopened, the block screen is back, and stale sessions are retired.",
-  "publishedAt": "2026-11-26T21:33:35Z"
+  "versionName": "1.30.3",
+  "versionCode": 40,
+  "url": "https://github.com/C34S3-R/nerdy-releases/releases/download/v1.30.3/nerdy-1.30.3.apk",
+  "sha256": "6d187f9e0249640c77f809147e191b94631db231d052dbc41d1f93efe9b55546",
+  "releaseNotes": "Nerdy 1.30.3 - manual sessions now file as Focus/Technical unless you pick; landscape focus room fixed; accessibility drop watchdog added",
+  "publishedAt": "2026-11-27T13:30:47Z"
 }
